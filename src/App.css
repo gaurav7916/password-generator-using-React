@@ -30,7 +30,7 @@ h3 {
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: var(--primary-color);
-  width:350px;height:480px;
+  width:355px;height:480px;
   border-radius:15px;
   padding: 25px 25px 45px;
   box-shadow: 0px 10px 10px 15px rgba(104, 106, 164, 0.75);
