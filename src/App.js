@@ -85,7 +85,7 @@ function App() {
         </button>
       </div>
       <div className={`modal ${showModal ? "show" : ""}`}>
-        <div className="modal-content">Password copied !</div>
+        <div className="modal-content">Password Copied</div>
       </div>
 
       <div className="options">
